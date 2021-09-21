@@ -14,10 +14,13 @@ Parts of speech:
 2- Nouns
 3- Particle
 
+
 ## How to use it
 
 1- Clone the repo
+
 2- Open your Python IDE
+
 3- Run the project
 
 
@@ -27,13 +30,14 @@ Parts of speech:
 
 As you see it contains a search box to add the text you want to apply POS tagging on
 And it has the functions you can do on this text:
-1- Tokinize: The process of turning a piece of data (sentence in our case), into a string of characters called a token.
+
+1. Tokinize: The process of turning a piece of data (sentence in our case), into a string of characters called a token.
 
 2- Rule Based: It will display to you the POS tag for each token.
 
 3. Pattern: It will give you the pattern of each token.
-4. 
-5. Generate Pattern: It will generate patterns for each token according to words pattern rules in Arabic.
+
+4. Generate Pattern: It will generate patterns for each token according to words pattern rules in Arabic.
 
 
 ![1](1.PNG)
