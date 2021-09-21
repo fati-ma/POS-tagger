@@ -5,6 +5,8 @@ It is built using Python language, Pycharm IDE, Excel workbooks.
 
 **part-of-speech tagging** (POS tagging or PoS tagging or POST), also called grammatical tagging is the process of marking up a word in a text (corpus) as corresponding to a particular part of speech, based on both its definition and its context. 
 
+The Rule-based and Generate Pattern approaches used for POS tagging were developed after reading latest reasearches done about both approaches and analyzing the latest methods used.
+
 This system was built to be tested on **Arabic Language**.
 
 Parts of speech: 
@@ -26,9 +28,12 @@ Parts of speech:
 As you see it contains a search box to add the text you want to apply POS tagging on
 And it has the functions you can do on this text:
 1- Tokinize: The process of turning a piece of data (sentence in our case), into a string of characters called a token.
+
 2- Rule Based: It will display to you the POS tag for each token.
+
 3. Pattern: It will give you the pattern of each token.
-4. Generate Pattern: It will generate patterns for each token according to words pattern rules in Arabic.
+4. 
+5. Generate Pattern: It will generate patterns for each token according to words pattern rules in Arabic.
 
 
 ![1](1.PNG)
@@ -56,6 +61,10 @@ You will see the tag of each word
 
 
 ### 5- When clicking on Pattern and Generate Pattern 
+
+Pattern: will give the Arabic pattern for each token, one by one
+
+Generate Pattern: will generate various of patterns of verbs and nouns according to Arabic Patterns rules 
 
 ![5](8.PNG)
 
